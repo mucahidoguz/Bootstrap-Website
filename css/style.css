@@ -1,0 +1,45 @@
+.resimSliders {
+    height: 600px;
+
+}
+
+body {
+    padding-top: 80px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.iccc {
+    height: 80px;
+    width: 120px;
+    border-radius: 5000px;
+    border-color: bisque;
+}
+
+.hakkimizda {
+    background-color: bisque;
+
+}
+
+.ayrac {
+    border: none;
+    border-top: 3px solid black;
+    max-width: 500px;
+    margin: 25px auto;
+}
+
+.ibeyaz {
+position: relative;
+top: -67px;
+}
+
+.gnlcard>img:hover {
+opacity: 0.9;
+}
+
+.mcseyhan:hover {
+opacity: 0.9;
+}
+
+.figure:hover {
+    opacity: 0.7;
+}
